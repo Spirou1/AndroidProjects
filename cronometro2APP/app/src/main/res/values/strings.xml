@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cronômetro</string>
+    <string name="app_title">App Cronômetro</string>
+    <string name="btn_start_text">Iniciar Cronômetro</string>
+</resources>

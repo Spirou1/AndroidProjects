@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatFactApp</string>
+    <string name="click_to_get_fact">Clique para obter um fato sobre gatos</string>
+    <string name="btn_get_fact">Get Fact</string>
+</resources>
